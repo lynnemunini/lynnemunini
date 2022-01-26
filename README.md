@@ -18,11 +18,12 @@
 <!-- <p align="center">
   <a href="https://github.com/lynnemunini/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Python%20Developer;Data%20Enthusiast;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 </p> -->
-<p align="center">
+<!-- <p align="center">
 <a href="https://twitter.com/LynneMunini" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Twitter" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/lynne-munini-431571195/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIN" height="40" width="40" /></a>
 </p>
-
+ -->
+ <br><br>
 <a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Lynne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lynnemunini&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
 <br><br>
 
