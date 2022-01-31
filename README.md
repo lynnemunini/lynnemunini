@@ -31,11 +31,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lynnemunini&show_icons=true&hide=contribs,prs&theme=highcontrast" />
 </a><br><br
             
-<a href="https://git.io/streak-stats">
+<a href="https://github.com/lynnemunini/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynnemunini&theme=highcontrast" />
 </a>
 <br>
 
+<!-- <a href="https://github.com/lynnemunini/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LynneMunini&theme=highcontrast&show_icons=true&v2" />
+</a>
+<br><br>
+ -->
 <a href="https://github.com/lynnemunini/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnemunini&theme=highcontrast&layout=compact" />
 </a>
