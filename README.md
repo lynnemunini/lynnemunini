@@ -16,25 +16,26 @@
 <a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Lynne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lynnemunini&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
 <br><br>
 
-<a href="https://github.com/lynnemunini/github-readme-stats">
+<!-- <a href="https://github.com/lynnemunini/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lynnemunini&show_icons=true&hide=contribs,prs&theme=highcontrast" />
-</a><br><br
-            
+</a> -->
+<p align="center">            
 <a href="https://github.com/lynnemunini/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynnemunini&theme=highcontrast" />
 </a>
-<br>
+</p><br>
 
 <!-- <a href="https://github.com/lynnemunini/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LynneMunini&theme=highcontrast&show_icons=true&v2" />
 </a>
 <br><br>
  -->
-<a href="https://github.com/lynnemunini/github-readme-stats">
+<!-- <a href="https://github.com/lynnemunini/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnemunini&theme=highcontrast&layout=compact" />
-</a>
-<br><br>
-
+</a> -->
+<!-- <br><br> -->
+<p align="center">
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=cw44vx1muv0czb8zgjp36dccb" />
 </a>
+</p>
