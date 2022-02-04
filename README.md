@@ -23,13 +23,13 @@
 <a href="https://github.com/lynnemunini/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynnemunini&theme=highcontrast" />
 </a>
-</p>
+</p><br>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/lynnemunini/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LynneMunini&theme=highcontrast&show_icons=true&v2" />
 </a>
-</p>
+</p> -->
 
 
 <!-- <a href="https://github.com/lynnemunini/github-readme-stats">
