@@ -31,14 +31,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LynneMunini&theme=highcontrast&show_icons=true&v2" />
 </a>
 </p> -->
-
-
+<!-- 
 <p align="center"> 
 <a href="https://github.com/lynnemunini/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnemunini&theme=highcontrast&layout=compact" />
 </a>
 </p>
-<br>
+<br> -->
 <p align="center">
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=cw44vx1muv0czb8zgjp36dccb" />
