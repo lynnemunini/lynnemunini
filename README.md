@@ -33,9 +33,11 @@
 </p> -->
 
 
-<!-- <a href="https://github.com/lynnemunini/github-readme-stats">
+<p align="center"> 
+<a href="https://github.com/lynnemunini/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnemunini&theme=highcontrast&layout=compact" />
-</a> -->
+</a>
+</p>
 <!-- <br><br> -->
 <p align="center">
 <a href="https://git.io/streak-stats">
