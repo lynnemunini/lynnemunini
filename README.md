@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/63019595/142769636-cf6d83bc-14a3-42c0-b21f-a835baaca64c.png)
+<!-- ![Banner](https://user-images.githubusercontent.com/63019595/142769636-cf6d83bc-14a3-42c0-b21f-a835baaca64c.png) -->
 
 <p align="center">
 	<a href="https://github.com/lynnemunini"><img src="https://img.shields.io/github/followers/lynnemunini.svg?label=GitHub&style=social" alt="GitHub"></a>
@@ -26,20 +26,14 @@
 </a>
 </p><br>
 
+<p align="center">            
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=cw44vx1muv0czb8zgjp36dccb&redirect=true">
+  <img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=cw44vx1muv0czb8zgjp36dccb&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
+</a>
+</p><br>
+
 <!-- <p align="center">
-<a href="https://github.com/lynnemunini/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LynneMunini&theme=highcontrast&show_icons=true&v2" />
-</a>
-</p> -->
-<!-- 
-<p align="center"> 
-<a href="https://github.com/lynnemunini/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnemunini&theme=highcontrast&layout=compact" />
-</a>
-</p>
-<br> -->
-<p align="center">
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=cw44vx1muv0czb8zgjp36dccb" />
 </a>
-</p>
+</p> -->
