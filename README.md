@@ -7,10 +7,10 @@
 	<a href="https://github.com/sponsors/lynnemunini"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>
 </p>
 
-<h3 align="center">
-  Welcome to Lynne's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">
+  Hi I'm Lynne!
+  <img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
+</h1>
 <br>
 <p align="center">  
 <a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Lynne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lynnemunini&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
