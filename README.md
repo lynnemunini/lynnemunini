@@ -15,7 +15,7 @@
 </h1>
 <br>
 <p align="center">  
-<a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Lynne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lynnemunini&bg_color=1F222E&color=eda624&line=efb349&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Lynne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lynnemunini&bg_color=1F222E&color=fff6ea&line=fad02c&point=FFFFFF&hide_border=true" /></a>
 </p>
 <!-- <a href="https://github.com/lynnemunini/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lynnemunini&show_icons=true&hide=contribs,prs&theme=highcontrast" />
