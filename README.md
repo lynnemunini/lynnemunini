@@ -1,5 +1,7 @@
-<!-- ![Banner](https://user-images.githubusercontent.com/63019595/142769636-cf6d83bc-14a3-42c0-b21f-a835baaca64c.png) -->
-
+<p align="center">
+	<img src="images/Green Orange Minimalist Food And Beverage Manager LinkedIn Banner.svg" >
+</p>
+<br>
 <p align="center">
 	<a href="https://github.com/lynnemunini"><img src="https://img.shields.io/github/followers/lynnemunini.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/LynneMunini"><img src="https://img.shields.io/twitter/follow/LynneMunini?label=Twitter&style=social" alt="Twitter"></a>
@@ -13,7 +15,7 @@
 </h1>
 <br>
 <p align="center">  
-<a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Lynne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lynnemunini&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Lynne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lynnemunini&bg_color=1F222E&color=eda624&line=efb349&point=FFFFFF&hide_border=true" /></a>
 </p>
 <!-- <a href="https://github.com/lynnemunini/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lynnemunini&show_icons=true&hide=contribs,prs&theme=highcontrast" />
