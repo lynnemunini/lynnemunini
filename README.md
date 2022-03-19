@@ -31,6 +31,6 @@
 
 <p align="center">
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=cw44vx1muv0czb8zgjp36dccb"/>
+  <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=cw44vx1muv0czb8zgjp36dccb/>
 </a>
 </p>
