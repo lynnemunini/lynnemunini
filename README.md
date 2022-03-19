@@ -16,23 +16,21 @@
 <p align="center">  
 <a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Lynne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lynnemunini&bg_color=1F222E&color=fff6ea&line=fad02c&point=FFFFFF&hide_border=true" /></a>
 </p>
-<!-- <a href="https://github.com/lynnemunini/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lynnemunini&show_icons=true&hide=contribs,prs&theme=highcontrast" />
-</a> -->
+
 <p align="center">            
 <a href="https://github.com/lynnemunini/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynnemunini&ring=fad02c&fire=fad02c&currStreakLabel=fad02c&background=1F222E&hide_border=true&sideNums=fff6ea&sideLabels=fff6ea&dates=fff6ea&currStreakNum=fff6ea" />
 </a>
 </p>
 
-<p align="center">            
+<!-- <p align="center">            
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=cw44vx1muv0czb8zgjp36dccb&redirect=true">
   <img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=cw44vx1muv0czb8zgjp36dccb&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
 </a>
-</p>
-
-<!-- <p align="center">
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=cw44vx1muv0czb8zgjp36dccb" />
-</a>
 </p> -->
+
+<p align="center">
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=cw44vx1muv0czb8zgjp36dccb"/>
+</a>
+</p>
