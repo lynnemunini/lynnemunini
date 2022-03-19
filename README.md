@@ -14,7 +14,7 @@
   <img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
 </h1>
 <p align="center">  
-<a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Lynne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lynnemunini&bg_color=1F222E&color=fff6ea&line=fad02c&point=FFFFFF&hide_border=true" width="70%" /></a>
+<a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Lynne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lynnemunini&bg_color=1F222E&color=fff6ea&line=fad02c&point=FFFFFF&hide_border=true"/></a>
 </p>
 
 <p align="center">            
