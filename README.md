@@ -23,11 +23,11 @@
 </a>
 </p>
 
-<!-- <p align="center">            
+<p align="center">            
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=cw44vx1muv0czb8zgjp36dccb&redirect=true">
   <img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=cw44vx1muv0czb8zgjp36dccb&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
 </a>
-</p> -->
+</p>
 
 <p align="center">
 <a>
