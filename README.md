@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="images/Green Orange Minimalist Food And Beverage Manager LinkedIn Banner.gif"/>
+	<img src="images/Green Orange Minimalist Food And Beverage Manager LinkedIn Banner.svg"/>
 </p>
 <br>
 <p align="center">
