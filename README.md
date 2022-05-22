@@ -13,7 +13,7 @@
   <img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
 </h1>
 
-<p align="center">            
+<!-- <p align="center">            
 <a href="https://github.com/lynnemunini/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynnemunini&ring=fad02c&fire=fad02c&currStreakLabel=fad02c&background=1F222E&hide_border=true&sideNums=fff6ea&sideLabels=fff6ea&dates=fff6ea&currStreakNum=fff6ea" />
 </a>
@@ -24,6 +24,6 @@
   <img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=cw44vx1muv0czb8zgjp36dccb&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
 </a>
 </p>
-
+ -->
 
 
