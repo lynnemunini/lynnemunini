@@ -10,7 +10,8 @@
 
 <h1 align="center">
   Hi I'm Lynne!
-  <img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
+  <img src="images/butterfly.gif" width=30%>
+<!-- 	<img src="images/dog.gif" width=20%> -->
 </h1>
 
 <!-- <p align="center">            
