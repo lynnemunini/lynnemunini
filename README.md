@@ -2,7 +2,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=lynnemunini&theme=oldie&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lynnemunini&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=lynnemunini&icon=0&color=0)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lynne-munini-431571195/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15744375) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/LynneMunini) 
