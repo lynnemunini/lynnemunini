@@ -1,6 +1,3 @@
-# 💫About Me :
-I'm currently learning how to deploy and manage applications in the cloud using Docker, Kubernetes, and CloudFormation.
-
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lynnemunini&theme=oldie&no-frame=true&no-bg=true&margin-w=4)
 
