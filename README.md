@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/63019595/179348351-d1f7d4b7-1f83-463d-9bb3-c0fec5afc617.png" width="450" height="450" align="right"><br>
 # 💫 About Me:
-Hi 👋, I'm Lynne Munini<br>An Android developer
+Hi 👋, I'm Lynne Munini<br>An Android(Kotlin) and Backend(Python) developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lynnemunini/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15744375) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/LynneMunini) 
