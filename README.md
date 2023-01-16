@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/63019595/212655109-0e4eda86-ba06-4fcc-b913-477531213f91.png" width="450" height="450" align="right"><br>
+<img src="https://user-images.githubusercontent.com/63019595/212658137-9cd2401d-8750-4b2a-9afb-2270fc68e582.png" width="450" height="450" align="right"><br>
 # 💫 About Me:
 Hi 👋, I'm Lynne Munini<br>An <b>Android (Kotlin)</b> developer.
 <br>🌱 I'm currently learning <b>Jetpack Compose</b><br>💬 Ask me about <b>DevOps, Python, Kotlin</b>
