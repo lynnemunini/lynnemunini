@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 Hi 👋, I'm Lynne Munini<br>An <b>Android (Kotlin)</b> developer.
-<br>🌱 I'm currently learning <b> Firebase for app development</b><br>💬 Ask me about <b>Jetpack Compose, Kotlin, DevOps</b>
+<br>🌱 I'm currently learning <b> Firebase for app development</b><br>💬 Ask me about <b>Python, Jetpack Compose, Kotlin, DevOps</b>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lynnemunini/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15744375) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/LynneMunini) 
 
