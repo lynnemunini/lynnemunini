@@ -1,8 +1,4 @@
-<img src="https://user-images.githubusercontent.com/63019595/213786476-73978f7c-56c3-4e91-b201-2cf8a9bbb270.png" width="200" height="200" align="right">
-
-# 💫 About Me:
-Hi 👋, I'm Lynne Munini. An <b>Android </b> developer.
-<br>I'm currently exploring Android app development with Kotlin.
+<img src="https://user-images.githubusercontent.com/63019595/236937936-a76d204d-b43f-43a6-89f4-2d7fab5b36ee.png" width="30%">
 <br><br>
 Reach out to me anytime ☺️
 
