@@ -1,5 +1,5 @@
-<img src="https://user-images.githubusercontent.com/63019595/236937936-a76d204d-b43f-43a6-89f4-2d7fab5b36ee.png" width="30%">
-<br><br>
+<img src="https://user-images.githubusercontent.com/63019595/236937141-27b4cddd-4138-4835-a021-af080a4dfdce.png" width="30%">
+<br>
 Reach out to me anytime ☺️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lynnemunini/)
