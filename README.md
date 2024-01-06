@@ -1,3 +1,3 @@
 ### Hey...
 
-I write code, mostly in Kotlin. Been diving a bit more into Java lately :)
+I write code, mostly in Kotlin, but a lot more Java lately ;)
