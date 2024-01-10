@@ -1,3 +1,1 @@
 ### Hey...
-
-I write code, mostly in Kotlin, but a lot more Java lately ;)
