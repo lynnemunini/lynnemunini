@@ -1,1 +1,1 @@
-Hey, I'm Lynne! I write code in Java and Kotlin, and lately, a lot of TypeScript too.
+Hallo! I build backend systems in Java & Spring, Android apps in Kotlin, and lately, I’ve been writing a lot more TypeScript with NestJS.
